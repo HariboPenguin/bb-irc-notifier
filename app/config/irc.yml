@@ -1,7 +1,7 @@
 server: irc.ultimateminecraft.net
 port: 6667
 room: dev
-nick: pingubot
+nick: PinguBot
 ssl: 0
 message_without_join: 0
 no_colors: 0
