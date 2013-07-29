@@ -1,7 +1,7 @@
-server: irc.freenode.net
-port: 7000
-room: somechannel
-nick: noticebot
+server: irc.ultimateminecraft.net
+port: 6667
+room: dev
+nick: pingubot
 ssl: 1
 message_without_join: 1
 no_colors: 0
